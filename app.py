@@ -130,4 +130,4 @@ with col2:
             st.write("Accuracy matrices not generated yet.")
 
 st.markdown("---")
-st.markdown("### Project By ASHISH KUMAR | UCI Cleveland Dataset")
+st.markdown(" UCI Cleveland Dataset")
